@@ -14,3 +14,9 @@ Toda a conferência é feita no navegador de quem acessa: **nenhum arquivo é en
 Este repositório contém apenas a página de verificação, gerada a partir do código do TalkEncript (`npm run build:verificador`). Componentes de código aberto embutidos: hash-wasm (MIT) e fflate (MIT).
 
 TalkEncript, criado por Carlos Alexandre Albuquerque Oliveira, advogado, OAB/PA 33.996.
+
+## Licença
+
+Código licenciado sob a [Licença MIT](LICENSE) — © 2026 Carlos Alexandre Albuquerque Oliveira. Você pode usar, copiar, modificar e distribuir, inclusive para fins comerciais, desde que mantenha o aviso de direitos autorais e a licença.
+
+O nome, a marca e o logotipo do projeto **não** estão incluídos na licença e não podem ser usados para sugerir endosso ou vínculo sem autorização.
